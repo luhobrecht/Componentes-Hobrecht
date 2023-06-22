@@ -1,6 +1,12 @@
+aside {
+    background-color: #3d3d3d;
+    height: 100vh;
+    width: var(--siderbar-width);
+    position: fixed;
+}
+
 .project > a {
     color: #f3f3f3;
-    text-align: center;
     text-decoration: none;
     font-weight: 400;
 }

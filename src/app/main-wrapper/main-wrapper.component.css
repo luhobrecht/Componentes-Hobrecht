@@ -1,0 +1,9 @@
+main {
+    background-image: url("../../assets/background3.png");
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    margin-left: var(--sidebar-width);
+    min-height: calc(100vh - var(--header-height));
+}

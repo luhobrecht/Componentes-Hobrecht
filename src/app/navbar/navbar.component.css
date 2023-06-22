@@ -1,5 +1,6 @@
 .toolbar {
     background-color: #faf8fc;
+    height: var(--header-height);
 }
 
 .section-text {
