@@ -1,0 +1,18 @@
+.project > a {
+    color: #f3f3f3;
+    text-align: center;
+    text-decoration: none;
+    font-weight: 400;
+}
+
+.project {
+    padding: 2em;
+}
+
+.project > a:hover {
+    font-weight: 600;
+}
+
+.project > a::selection {
+    font-weight: 600;
+}

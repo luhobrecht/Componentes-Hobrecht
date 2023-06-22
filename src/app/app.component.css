@@ -1,0 +1,12 @@
+.navbar {
+    background-color: #3d3d3d;
+}
+
+.main {
+    background-image: url("../assets/background3.png");
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+

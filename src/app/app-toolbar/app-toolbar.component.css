@@ -1,0 +1,31 @@
+.toolbar {
+    background-color: #faf8fc;
+}
+
+.section-text {
+    font-weight: 500;
+}
+
+.section-text:hover {
+    font-weight: 700;
+}
+
+.section-text::selection {
+    font-weight: 700;
+}
+
+img{
+    width: 100px;
+}
+
+.social-media {
+    color: #3d3d3d;
+}
+
+.social-media:hover {
+    color: #420773;
+}
+
+.social-media::selection {
+    color: #420773;
+}
