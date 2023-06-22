@@ -2,16 +2,16 @@ import { NgModule } from '@angular/core';
 import { BrowserModule } from '@angular/platform-browser';
 
 import { AppComponent } from './app.component';
-import { AppToolbarComponent } from './app-toolbar/app-toolbar.component';
-import { AppNavbarComponent } from './app-navbar/app-navbar.component';
-import { AppMainComponent } from './app-main/app-main.component';
+import { MainComponent } from './main/main.component';
+import { SidebarComponent } from './sidebar/sidebar.component';
+import { NavbarComponent } from './navbar/navbar.component';
 
 @NgModule({
   declarations: [
     AppComponent,
-    AppToolbarComponent,
-    AppNavbarComponent,
-    AppMainComponent
+    MainComponent,
+    SidebarComponent,
+    NavbarComponent
   ],
   imports: [
     BrowserModule
